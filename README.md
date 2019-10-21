@@ -7,6 +7,7 @@ Spec:
 - The newest XAMPP version
 - PHP 7
 - Javascript Native / nice-forms.js
+- powerdesigner
 
 Note : The purpose of making this project are : 
 - to make an easy College information system so user lecturer as admin can easly
