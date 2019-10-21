@@ -1,11 +1,12 @@
 # Academic-Website
 Academic Website for college campus information system
 This website consist of 2 users, there are lecturer (could be as admin) and student.
-this admin role, can do basic CRUDS about lecturer and student data.
+this->admin role, can do basic CRUDS about lecturer and student data.
+this->user role, can do ... (next update)...
 
 Spec:
 - The newest XAMPP version
-- PHP 7
+- PHP 7 Native
 - Javascript Native / nice-forms.js
 - powerdesigner
 
